@@ -1,0 +1,3 @@
+[submodule "test/test_lib_a"]
+	path = test/test_lib_a
+	url = https://github.com/eesctc/test_lib_a.git
